@@ -1,5 +1,5 @@
 name: git-lfs
-version: 1.0.2
+version: 1.0.3
 summary: Install git-lfs and update repository
 tags:
 - Git
