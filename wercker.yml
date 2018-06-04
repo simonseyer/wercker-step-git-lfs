@@ -1,8 +1,9 @@
 box: debian:stable-slim
 
 build:
+  steps:
 
 publish:
- steps:
- - internal/publish-step:
- owner: SimonSeyer
+  steps:
+    - internal/publish-step:
+        owner: SimonSeyer
