@@ -1,0 +1,8 @@
+name: git-lfs
+version: 1.0.0
+summary: Install git-lfs and update repository
+tags:
+- Git
+- Github
+- Lfs
+properties: []
